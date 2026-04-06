@@ -73,7 +73,7 @@ This project builds a complete machine learning pipeline that:
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  Data Loading ──► EDA ──► Preprocessing ──► Feature Engg.   │
+│  Data Loading ──► EDA ──► Preprocessing ──► Feature Engg.    │
 │                                  │                           │
 │                           Handle Imbalance (SMOTE)           │
 │                                  │                           │
